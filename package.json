@@ -1,12 +1,12 @@
 {
-  "name": "Reto2_Backend",
+  "name": "Reto1_Backend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Freicia Pierina Castillo Benitez",
+  "author": "Pierina Castillo",
   "license": "ISC",
   "dependencies": {
     "express": "^4.13.3",
